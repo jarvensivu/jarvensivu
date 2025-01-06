@@ -1,16 +1,65 @@
-### Hi there 👋
+# Hi there 👋, I'm Juha
 
-<!--
-**jarvensivu/jarvensivu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+*   🌍 I'm based in Finland
+*   👨‍💻 I'm currently working as a Junior Software Developer at [Pinja Group](https://pinja.com/)
+* 😀 I'm interested in software development, cyber security and machine learning
+* 📚 I'm studying Computer Science at [Tampere University](https://www.tuni.fi/fi)
+*   🌱  I'm currently studying agile software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jarvensivu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+## Skills 
+
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=js,ts,cs,python,go)
+
+### Full Stack Development
+![Full Stack Development](https://skillicons.dev/icons?i=html,css,bootstrap,materialui,react,redux,nodejs,express,dotnet)
+
+
+### Cloud Services and DevOps
+![Cloud Services and DevOps](https://skillicons.dev/icons?i=azure,aws,docker,git)
+
+## Certifications
+
+### Microsoft
+
+<div>
+  <a href="https://learn.microsoft.com/en-us/users/juhajarvensivu/credentials/a6e1d43b11b24e60">
+    <img src="./images/AZ204.png" alt="Azure Developer Associate" width="120" height="120">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/juhajarvensivu/credentials/1607fe3dbb4931b8">
+    <img src="./images/AI900.png" alt="Azure AI Fundamentals" width="120" height="120">
+  </a>
+  <a href="https://learn.microsoft.com/fi-fi/users/juhajarvensivu/credentials/79a66882a6138006">
+    <img src="./images/SC900.png" alt="Security, Compliance, and Identity Fundamentals" width="120" height="120">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/juhajarvensivu/credentials/ab985b811fa208d6">
+    <img src="./images/DP900.png" alt="Azure Data Fundamentals" width="120" height="120">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/juhajarvensivu/credentials/88e60b6aa0548789">
+    <img src="./images/AZ900.png" alt="Azure Fundamentals" width="120" height="120">
+  </a>
+</div>
+
+### AWS
+
+<div>
+  <a href="https://www.credly.com/badges/8e06444f-e0fa-4ff2-8222-1cfb390fbc69">
+    <img src="./images/CLF-C02.png" alt="AWS Certified Cloud Practitioner" width="120" height="120">
+  </a>
+<div>
+
+### Misc
+
+<div>
+  <a href="https://bcert.me/scpxiwjtm">
+    <img src="./images/CSM.png" alt="Scrum Alliance Certified ScrumMaster" width="120" height="120">
+  </a>
+    <a href="https://www.credly.com/badges/cfc31b52-fb3b-407a-bcd9-f3f6daf11e7b">
+    <img src="./images/GitHub-Foundations.png" alt="GitHub Foundations" width="120" height="120">
+  </a>
+<div>
